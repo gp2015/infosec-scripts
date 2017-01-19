@@ -1,0 +1,4 @@
+# update hostname
+ - You can start Nessus by typing /etc/init.d/nessusd start
+ - Then go to https://hostname:8834/ to configure your scanner
+
